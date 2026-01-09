@@ -1,16 +1,24 @@
 # On Anti-Queer Rhetoric
 
-This is a primer for moderators of online chat platforms to understand the basics of anti-queer rhetoric, to more thoroughly combat it without having to resort to heavy handed policies such as banning all speech of specific types (i.e. political speech (What even does "political" mean?))
+This is a primer for moderators of online chat platforms to understand the basics of anti-queer rhetoric, to more thoroughly combat it without having to resort to heavy handed policies such as banning all speech percieved as "political". It is worth noting that what counts as "political" speech is percieved very differently by different ideologies.
 
-Your job as an instance moderator isn't to manage a debate, but it is to deliver consequences to those acting in bad faith. This is an attempt to more clearly define what bad faith is.
+Your job as an instance moderator isn't to manage a debate, but it is to deliver consequences to those acting in bad faith. This is an attempt to more clearly define what bad faith is. If one of the participants is *aware* that they are making specious or misleading arguments, and continues to do so, they are acting in Bad Faith.
 
-If one of the participants is *aware* that they are making specious (misleading) arguments, and continues to do so, they are acting in Bad Faith.
+Our moderators are most concerned with a specific type of persistent threat commonly called the "rage bait" troll or content producer that will attempt to bait people into strong reactions of offense or anger that can be distributed on social media for views. Rage baiters are always acting in bad faith, as an argument where one side has no intention of changing their mind about anything undercuts any point to the argument in the first place, leaving the only purpose of the interaction as exploitation.
 
 ## What is politics?
 
-Politics is how we define relations of power within a community, who is allowed to hold power, and the limits and validity of power. Status and resources are typically controlled by wielders of power, so the discussion of politics is relevant to almost all discussions of queerness; who is queer is a political question. Who is oppressed and how are political discussions.
+Commonly, many new moderators will say, "we don't we just ban political discussion?"
+
+Politics is how we define relations of power within a community, who is allowed to hold power, and the limits, validity, duties and responsibilities of power. Status and resources are typically controlled by the powerful, so the discussion of politics is relevant to almost all discussions of queerness; "who is queer?" is a political question. Who is oppressed and how are political discussions.
+
+Queer people's existence in public life is very new; within my lifetime, it was still illegal to be gay in my home country, and still is illegal in many parts of the world.
+
+Structural systems of domination includes things like laws making queerness illegal. Queerness is seen as a threat to systems of domination because it challenges and transgresses categories of domination like sex, gender, and race.
 
 ## General Rhetoric
+
+
 
 * Colloquial discussion, dissent, conflict, cooperation
 * What is the point of an argument?
@@ -32,6 +40,12 @@ Politics is how we define relations of power within a community, who is allowed 
 
 For these reasons, natural languages are known as Open languages; they have a lot of ambiguity to meaning, so they cannot clearly specify meaning, and most arguments are lost immediately because both parties fail to recognize that they haven't defined their terms. The interlocutors can continue to argue, and this would be simple ignorance. Most arguments that fail are in good faith.
 
+### Necessary Conditions
+
+[Necessary vs. sufficient conditions](https://en.wikipedia.org/wiki/Necessity_and_sufficiency)
+
+* Monothetic classification / and necessary conditions
+* polythetic classification / "family resemblance"
 
 ### General Failure Modes of Arguments
 
