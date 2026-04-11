@@ -16,9 +16,9 @@ Queer people's existence in public life is very new; within my lifetime, it was 
 
 Structural systems of domination includes things like laws making queerness illegal. Queerness is seen as a threat to systems of domination because it challenges and transgresses categories of domination like sex, gender, and race.
 
+Almost all anti-queer rhetoric is based in chauvinism, or the belief that you or your social group are better than another group. Chauvinists, and more specifically reactionaries, will often lie about what they want and believe. We will focus further on how to distinguish this behavior from ignorance.
+
 ## General Rhetoric
-
-
 
 * Colloquial discussion, dissent, conflict, cooperation
 * What is the point of an argument?
@@ -57,7 +57,7 @@ You are watching for the use of known bad fallacies; when someone argues pathos 
 
 #### Typology of bad arguers
 
-* Trolls (Just want an emotional reaction) - The least dangerous
+* Trolls (Just want an emotional reaction) - The least dangerous... unless they're content farmers, then most dangerous
 * [Sea lions](https://wondermark.com/c/1062/) Usually just want to be right, probably autists
 * Bullshitters - 
 * True Believers - The most dangerous, but rarest type
