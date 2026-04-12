@@ -40,7 +40,7 @@ Groups that focus on the social good that we should feature are those that have 
 ## Anti-patterns
 
 * Cults of personality
-* Laisez Faire structure
+* laissez faire structure
 * Schism + Radicalization
 * Focus on social capital/power
 
