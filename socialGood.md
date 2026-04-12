@@ -35,21 +35,24 @@ Groups that do these things are "social good groups".
 Some recognizable features of social good groups that we should promote are those that have demonstrated:
 
 * Prinicipled purpose
-  * A core meaning/focus/identity
-  * belonging and safety, comfort, room to grow
-  * Recognition (your voice matters)
+  * A core edict/meaning/focus/identity/character
+  * Single purpose groups are often the most cohesive, but may be stifled in size
+  * The more complex the identity, the more room for schism
 * Trust/Consistency
   * Interactions are consensual
   * Members act in good faith
   * Effective moderation
     * Willingness to engage with conflict
     * [Safer Brave Space](https://www.houseofhives.com/fem1/safe-spaces-abbiola-ballah)
+* belonging and safety, comfort, room to grow
+  * Recognition (your voice matters)
 * history/maturity/staying power
   * Reproduction of new leaders through knowledge sharing
   * Churn
     * Some is expected, low is better
     * Effective groups are rhizomatic, they set roots
 
+It needs be remarked that the items further down the list above all function best if explicitly included as part of the core principles of a group.
 
 ## Anti-patterns
 
@@ -57,11 +60,19 @@ Some recognizable features of social good groups that we should promote are thos
 * laissez faire structure
 * Schism + Radicalization
 * Focus on social capital/power
+* Bad faith groups often include "follow the ToS" as the only stipulation
 
+### ToS and Bad Faith
+
+It's been noted that many bad actor umbrella groups, whether covert or overt, have “follow the VRC TOS” in their group description/rules which can dilute the meaning/trust of the whole platform as a consequence.  This makes it necessary for good faith groups and actors to bloat their operating principles with specific call-outs that overlap with or directly duplicate the TOS. There’s no fix for this without platform-level enforcement.
 
 ## Path to Growth for Groups not ready to be Featured
 
-Curation will have a problem that groups *not* featurable may get jealous; There's a RANGE/dimension/Spiral; how do we offer direction for those that are more able to grow?
+Curation will have a problem that groups *not* featurable may get jealous, so how do we offer direction for those that are more able to grow?
+
+Helping groups identify paths for growth may become a group leader mentoring exercise, or require further development of a program for this.
+
+## 
 
 This curation project will require ongoing guidance to remain effective, and not collapse. A small council of group leaders that can promote education and reproduction of the social good is a possible solution to ensure continued growth.
 
