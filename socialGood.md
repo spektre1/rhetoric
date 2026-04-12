@@ -64,7 +64,7 @@ It needs be remarked that the items further down the list above all function bes
 
 ### ToS and Bad Faith
 
-It's been noted that many bad actor umbrella groups, whether covert or overt, have “follow the VRC TOS” in their group description/rules which can dilute the meaning/trust of the whole platform as a consequence.  This makes it necessary for good faith groups and actors to bloat their operating principles with specific call-outs that overlap with or directly duplicate the TOS. There’s no fix for this without platform-level enforcement.
+Many bad actor groups, whether covert or overt, have “follow the VRC TOS” in their group description/rules which has diluted the meaning/trust of the whole platform as a consequence. This makes it necessary for good faith groups and actors to bloat their operating principles with specific call-outs that overlap with or directly duplicate the TOS. There’s no fix for this without better platform-level enforcement.
 
 ## Path to Growth for Groups not ready to be Featured
 
@@ -72,9 +72,11 @@ Curation will have a problem that groups *not* featurable may get jealous, so ho
 
 Helping groups identify paths for growth may become a group leader mentoring exercise, or require further development of a program for this.
 
-## 
+## Conclusion and Discussion
 
-This curation project will require ongoing guidance to remain effective, and not collapse. A small council of group leaders that can promote education and reproduction of the social good is a possible solution to ensure continued growth.
+This curation project will require ongoing guidance to remain effective and not collapse. A small council of group leaders that can promote education and reproduction of the social good is a possible solution to ensure continued growth of our communities and VRChat itself.
+
+Another larger suggestion that could alter the problem itself would be improved governance systems for groups, allowing distribution of power and security of groups to multiple individuals. Currently, all groups have single points of failure due to the RBAC design. This would fundamentally alter group structures in a way that may serve the social good with some forethought.
 
 
 ## Possible Logo?
