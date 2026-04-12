@@ -1,20 +1,20 @@
 # Group Initiative Summary
 
-The goal of this proposal is to discuss some of the features of VRChat Groups that should be promoted and featured by the platform to best benefit both the platform and the people that use it.
+The goal of this proposal is to discuss some of the features of VRChat Groups that should be promoted and featured by the platform to best benefit both VRChat and the people that use it.
 
 ## Social Cohesion
 
-People use and stay in VRChat to build social connections with others, and these connections are often facilitated by affinity groups. A subset of these affinity groups focus on the social good, i.e. promoting belonging, trust, safety, and comfort. These features seem to encourage "stickiness", or keeping users involved in the social community, and thus the platform. The literature often classifies this as [social cohesion](https://unece.org/sites/default/files/2023-12/2317603_E_ECE_CES_STAT_2023_8_WEB.pdf), which is a latent concept that's been defined in numerous ways. For our purposes, we will define it as "social connectedness (the ‘glue’ that connects members of a society), solidarity and trust amongst individuals, within and across communities and organisations, and within society at large". "Good faith" is another useful term to discuss the behavior of groups that benefit the social good.
+People use and stay on VRChat to build social connections, which is often facilitated by affinity groups. A subset of these affinity groups focus on the social good, i.e. promoting belonging, trust, safety, and comfort. These features seem to encourage "stickiness", or keeping users involved in the social community. The literature often calls this [social cohesion](https://unece.org/sites/default/files/2023-12/2317603_E_ECE_CES_STAT_2023_8_WEB.pdf), which is a latent concept that's been defined in numerous ways. For our purposes, we will define it as "social connectedness (the ‘glue’ that connects members of a society), solidarity and trust amongst individuals, within and across communities and organisations, and within society at large". "Good faith" is another useful term to discuss the behavior of groups that benefit the social good.
 
-Thus VRChat as a platform is incentivized to get more users into the groups that promote social cohesion, increasing the stickiness and commitment of a user to both those groups, and the platform.
+Thus VRChat is incentivized to get more users into the groups that promote social cohesion, increasing the stickiness and commitment of a user to both those groups, and VRChat.
 
-Most users of the platform recognize that there are existing groups on the platform that function in social support roles. It should be noted that many may not explicitly state this as their goals, but function as such regardless.
+There are existing groups on the platform that function in social support roles, and it should be noted that many may not explicitly state this as their goals, but function as such regardless.
 
 I believe the question we should ask is: can we identify the features of groups that are capable and willing to promote the social good by:
 
 * providing material social support for new users
-* scaling with an influx of new users
-* reproduce features of social cohesion
+* an ability to scale with an influx of new users
+* reproducing features of social cohesion
 
 ## Social Good Groups
 
