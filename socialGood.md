@@ -32,7 +32,6 @@ Groups that focus on the social good that we should feature are those that have 
     * [Safer Brave Space](https://www.houseofhives.com/fem1/safe-spaces-abbiola-ballah)
 * history/maturity/staying power
   * Reproduction of new leaders through knowledge sharing
-  * Members are 
   * Churn
     * Some is expected, low is better
     * Effective groups are rhizomatic, they set roots
@@ -56,3 +55,8 @@ This curation project will require ongoing guidance to remain effective, and not
 ## Possible Logo?
 
 Vesica Piscis
+
+## Steps Forward
+
+* Formalize a council to manage curation
+* Build a world for a group exposition
