@@ -61,6 +61,7 @@ It needs be remarked that the items further down the list above all function bes
 * Schism + Radicalization
 * Focus on social capital/power
 * Bad faith groups often include "follow the ToS" as the only stipulation
+* Eristic modes of communication, i.e. arguing to win
 
 ### ToS and Bad Faith
 
@@ -76,7 +77,7 @@ Helping groups identify paths for growth may become a group leader mentoring exe
 
 This curation project will require ongoing guidance to remain effective and not collapse. A small council of group leaders that can promote education and reproduction of the social good is a possible solution to ensure continued growth of our communities and VRChat itself.
 
-Another larger suggestion that could alter the problem itself would be improved governance systems for groups, allowing distribution of power and security of groups to multiple individuals. Currently, all groups have single points of failure due to the RBAC design. This would fundamentally alter group structures in a way that may serve the social good with some forethought.
+Another larger suggestion that could alter the problem itself would be improved governance systems for groups, allowing distribution of power and security of groups to multiple individuals. Currently, all groups have single points of failure due to the strictly heirarchical RBAC design. This would fundamentally alter group structures in a way that may serve the social good with some forethought.
 
 
 ## Possible Logo?
